@@ -64,11 +64,12 @@ Người dùng có **2 lựa chọn**, **chỉ dùng 1 trong 2**:
 
 ---
 ## Cài đặt FW
+* Tắt arduino IDE trước để không bị chiếm cổng COM
 ![Schematic](images/flash.png)
 
 ---
 ## Cấu Trúc Thư mục SD
-- 1 / chứa âm thanh cảm cảm : 0.mp3 -> 6.mp3
+- 1 / chứa âm thanh biểu cảm : 0.mp3 -> 6.mp3
 - 2 
 - 3
 - 4 / Thư mục chứa nhạc. tên từ 000.mp3 -> 999.mp3
